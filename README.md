@@ -24,7 +24,7 @@
 ![EDA 결과3](./Img/005.jpg)
 
 
-# 4. 태블로 대시보드
+# 4. 태블로 대시보드 제작
 - 이후 발생하는 데이터에 대해 주요 지표를 실시간 또는 정기적으로 모니터링할 필요가 있다. 
 - 이를 위해 Tableau(태블로) 를 활용하여, 핵심 지표를 한눈에 파악할 수 있는 대시보드를 구축했다.
 ### Tableau Public 링크 : [퍼포먼스 마케팅 대시보드 바로가기](https://public.tableau.com/app/profile/kyun8996/viz/__prj/performance)
