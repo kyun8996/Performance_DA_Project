@@ -2,7 +2,7 @@
 ### 📁 Repository Structure
 ```bash
 ├─ Data/                     # 원본 및 정제 데이터 (업로드 제외)
-├─ Img/                      # 시각화 및 대시보드 이미지
+├─ Img/                      # README 이미지
 ├─ excel_to_csv_1.ipynb      # Excel → MySQL 업로드
 ├─ pm_EDA_2.ipynb            # 퍼포먼스 마케팅 데이터 EDA
 ├─ mmp_EDA_3.ipynb           # MMP 데이터 EDA
