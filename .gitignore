@@ -1,2 +1,5 @@
 # Data 폴더 제외 
 Data/
+
+# Tableau 관련 파일 제외 (.twbr 파일 등)
+*.twbr
