@@ -29,4 +29,4 @@
 - 이를 위해 Tableau(태블로) 를 활용하여, 핵심 지표를 한눈에 파악할 수 있는 대시보드를 구축했다.
 ### Tableau Public 링크 : [퍼포먼스 마케팅 대시보드 바로가기](https://public.tableau.com/app/profile/kyun8996/viz/__prj/performance)
 
-![대시보드 화면](./Img/006.jpg)
+![태블로 대시보드](./Img/tableau.jpg)
