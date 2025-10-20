@@ -30,5 +30,3 @@
 ### Tableau Public 링크 : [퍼포먼스 마케팅 대시보드 바로가기](https://public.tableau.com/app/profile/kyun8996/viz/__prj/performance)
 
 ![대시보드 화면1](./Img/006.jpg)
-
-![대시보드 화면2](./Img/007.jpg)
